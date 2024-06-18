@@ -1,6 +1,5 @@
-<!--## Hi there 👋-->
-## 🧑‍💻 Problem solver
-### To be updated
+## Hi there 👋
+
 <!--
 **ayushjay/ayushjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
