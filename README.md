@@ -1,4 +1,4 @@
-## Hey, I'm Ayush J
+## Hey, I'm [Ayush J](https://ayushjay.github.io/)
 
 Reach me at my [email](mailto:ayushjayaswal51@gmail.com)  
 <!--
